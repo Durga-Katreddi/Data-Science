@@ -43,3 +43,6 @@ MySQL is chosen for its popularity, scalability, reliability, and ease of use. I
 
 ![image](https://github.com/KATREDDIDURGA/Data-Science/assets/72980202/1fbf01b3-0122-49eb-9d3f-8af8a8d87ae9)
 
+
+## Contact
+For any questions or inquiries, please contact [Sri Sai Durga Katreddi](mailto:katreddisrisaidurga@gmail.com).
