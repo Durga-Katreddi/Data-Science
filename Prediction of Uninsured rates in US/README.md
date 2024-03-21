@@ -32,3 +32,9 @@ Regression models such as Decision Tree Regressor, Linear Regression, Random For
 
 ## Conclusion
 This project sheds light on uninsured rates among different age groups and states, providing valuable insights for policymakers, healthcare professionals, and researchers.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any questions or inquiries, please contact [Sri Sai Durga Katreddi](mailto:katreddisrisaidurga@gmail.com).
