@@ -35,3 +35,9 @@ This project aims to predict breast cancer diagnosis (Malignant or Benign) using
 
 ## Conclusion
 This project demonstrates the application of machine learning algorithms for breast cancer diagnosis prediction, providing insights into potential diagnostic tools for healthcare professionals.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any questions or inquiries, please contact [Sri Sai Durga Katreddi](mailto:katreddisrisaidurga@gmail.com).
