@@ -1,10 +1,5 @@
 # Pet Adoption Hub using MySQL
 
-## Team Members
-- Team Coordinator: Jayavardhan Reddy Samidi
-- Sri Sai Durga Katreddi
-- Vardhan Gattu
-
 ## Objective
 
 The objective of the Pet Adoption Hub is to manage data related to a pet shelter, including pets, staff, veterinarians, donors, fosters, adoption applications, and medical records. The system aims to facilitate communication between staff, veterinarians, and fosters to ensure the best care for the pets, as well as track donations and manage adoption applications and medical records.
