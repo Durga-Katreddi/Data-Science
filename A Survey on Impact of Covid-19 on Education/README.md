@@ -44,5 +44,8 @@ The exploratory data analysis and data visualizations shed light on the online c
 - The dataset used in this project was obtained from Kaggle.
 - Special thanks to the Pandas and Matplotlib/Seaborn libraries for data processing and visualization.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 ## Contact
-For inquiries or collaborations related to the project, please contact [Sri Sai Durga Katreddi](mailto:katreddisrisaidurga@gmail.com).
+For any questions or inquiries, please contact [Sri Sai Durga Katreddi](mailto:katreddisrisaidurga@gmail.com).
