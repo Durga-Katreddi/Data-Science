@@ -39,3 +39,8 @@ To use the provided code:
 3. Train the model using the provided scripts.
 4. Evaluate the model's performance using the provided metrics.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any questions or inquiries, please contact [Sri Sai Durga Katreddi](mailto:katreddisrisaidurga@gmail.com).
