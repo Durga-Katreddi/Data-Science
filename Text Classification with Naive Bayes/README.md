@@ -36,3 +36,9 @@ This project implements a Naive Bayes classifier for sentiment analysis using te
 
 ## Conclusion
 This project demonstrates the implementation of a simple Naive Bayes classifier for sentiment analysis, providing insights into its performance and areas for improvement.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any questions or inquiries, please contact [Sri Sai Durga Katreddi](mailto:katreddisrisaidurga@gmail.com).
